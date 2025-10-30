@@ -1,6 +1,20 @@
-# AI-Powered-Career-Coach-Web-App
-Developed using React.js, Tailwind CSS, and Prisma for career recommendations via Gemini AI.
+# Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI Tutorial 🔥🔥
+## https://youtu.be/UbXpRv5ApKA
 
-Integrated REST APIs for data handling and implemented dynamic UI components.
+![sensai](https://github.com/user-attachments/assets/eee79242-4056-4d19-b655-2873788979e1)
 
-Focused on UX consistency and responsive layout design.
+### Make sure to create a `.env` file with following variables -
+
+```
+DATABASE_URL=
+
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+
+GEMINI_API_KEY=
+```
